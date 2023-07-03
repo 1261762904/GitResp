@@ -18,6 +18,7 @@ public class App {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+        int i1 = 1;
         new Thread(new Runnable() {
             @Override
             public void run() {
