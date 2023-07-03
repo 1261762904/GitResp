@@ -26,7 +26,7 @@ public class App {
             }
         }).start();
         A();
-        System.out.println("diyici");
+        System.out.println("yx");
     }
     private static String A(){
         String str = "";
