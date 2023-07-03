@@ -26,7 +26,7 @@ public class App {
             }
         }).start();
         A();
-        System.out.println("nihao2");
+        System.out.println("nihao1");
     }
     private static String A(){
         String str = "";
