@@ -26,7 +26,7 @@ public class App {
             }
         }).start();
         A();
-
+        System.out.println("nihao");
     }
     private static String A(){
         String str = "";
