@@ -25,7 +25,7 @@ public class App {
             }
         }).start();
         A();
-        System.out.println("冲突1");
+        System.out.println("冲突二");
     }
     private static String A(){
         String str = "";
