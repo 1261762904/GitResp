@@ -31,8 +31,7 @@ public class App {
     private static String A(){
         String str = "";
         StringBuffer stringBuffer = new StringBuffer(str);
-        System.out.println("c");
-        System.out.println("e");
+        System.out.println("b");
         return str;
     }
 }
