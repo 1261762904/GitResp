@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="serverBOS">
+    <CLASSES>
+      <root url="file://E:/易/kd库/库/lib/server/bos" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/易/kd库/库/lib/server/bos" recursive="false" />
+  </library>
+</component>
