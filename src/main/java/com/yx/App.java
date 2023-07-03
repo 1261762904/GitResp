@@ -26,8 +26,7 @@ public class App {
             }
         }).start();
         A();
-
-
+        System.out.println("diyici");
     }
     private static String A(){
         String str = "";
