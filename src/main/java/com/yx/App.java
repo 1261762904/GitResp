@@ -26,7 +26,7 @@ public class App {
             }
         }).start();
         A();
-        System.out.println("a");
+        System.out.println("1");
     }
     private static String A(){
         String str = "";
