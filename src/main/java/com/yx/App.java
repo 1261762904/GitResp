@@ -25,7 +25,6 @@ public class App {
                 System.out.println(1);
             }
         }).start();
-        i++;
         A();
 
 
