@@ -25,6 +25,7 @@ public class App {
             }
         }).start();
         A();
+
     }
     private static String A(){
         String str = "";
