@@ -32,6 +32,7 @@ public class App {
         String str = "";
         StringBuffer stringBuffer = new StringBuffer(str);
         System.out.println("c");
+        System.out.println("e");
         return str;
     }
 }
