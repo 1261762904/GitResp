@@ -25,7 +25,7 @@ public class App {
             }
         }).start();
         A();
-        System.out.println("ysc巅峰赛jx");
+        System.out.println("yscjxss");
     }
     private static String A(){
         String str = "";
