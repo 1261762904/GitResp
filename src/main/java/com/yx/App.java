@@ -26,7 +26,7 @@ public class App {
             }
         }).start();
         A();
-        System.out.println("yx2");
+        System.out.println("a");
     }
     private static String A(){
         String str = "";
